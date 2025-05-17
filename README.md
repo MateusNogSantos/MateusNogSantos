@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning C++ and Java.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusNogSantos&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusNogSantos&show_icons=true&theme=synthwave)
